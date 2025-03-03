@@ -1,9 +1,15 @@
 HormoniQ
 UI/UX Case Study
+
+
 Project Overview: 
 HormoniQ is a hormonal health tracking app designed to help users monitor their period cycle, mood, energy levels, and sleep. The app also offers community support and personalized insights to enhance user well-being. My role in this project was to design an intuitive, user-friendly experience that ensures accessibility and engagement.
+
+
 Problem Statement 
 Many individuals struggle to understand and manage their hormonal health due to a lack of structured, easy-to-use digital tools. The goal of HormoniQ was to create an app that provides seamless tracking, actionable insights, and community engagement while maintaining an empathetic and visually appealing interface.
+
+
 UX Research:
 1. User Research Summary
 	Objective:
