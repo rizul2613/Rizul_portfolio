@@ -92,10 +92,10 @@ Start → Sign Up/Login → Enter Personal Details →OTP Verification→ Enter 
 **•	Main Dashboard Navigation**
 
 
-**Cycle Tracking** → Log Period → View Predictions & Symptoms → Get Insights. 
+   **Cycle Tracking** → Log Period → View Predictions & Symptoms → Get Insights. 
 
 
-**Mood, Sleep & Energy Tracking** → Select Mood & Energy Level → Log Sleep Data → View Trends → Get Suggestions.
+   **Mood, Sleep & Energy Tracking** → Select Mood & Energy Level → Log Sleep Data → View Trends → Get Suggestions.
 
 
 **Community** → Browse Topics → Engage in Discussions → Ask Questions from AI Chatbot or Expert.
