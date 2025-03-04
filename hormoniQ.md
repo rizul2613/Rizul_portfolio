@@ -11,6 +11,8 @@ Many individuals struggle to understand and manage their hormonal health due to 
 
 
 UX Research:
+
+
 1. User Research Summary
 	Objective:
 To understand user needs, pain points, and expectations related to hormonal health tracking.
@@ -44,8 +46,14 @@ Wireframing & Prototyping
 •	Created wireframes to map out the app’s user flow.
 •	Developed interactive high-fidelity prototypes using Figma.
 •	Ensured a clean, minimalistic design with a focus on accessibility (color contrast, typography, and intuitive navigation).
+
+
 Test UI of HormoniQ
+
+
 •	https://www.figma.com/design/FDlrdWBv3zvJEJeE7HBwEN/hormonal-health-tracker?node-id=0-1&p=f&t=XtjINJLWJnGC911U-0
+
+
 Key Features & UI Design
 1.	Cycle Tracking Dashboard – An easy-to-navigate interface showing period predictions, ovulation window, and symptom tracking.
 2.	Mood, Sleep & Energy Log – Simple logging system with visual trends to help users identify patterns and track sleep quality and its correlation with hormonal changes.
