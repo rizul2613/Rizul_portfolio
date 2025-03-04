@@ -13,3 +13,8 @@ I also designed Logo for the website
 
 
 ![Logo](https://github.com/rizul2613/Rizul_portfolio/blob/main/_Practice.png)
+
+
+And This image below
+
+![Image](https://github.com/rizul2613/Rizul_portfolio/blob/main/travelling_website.png)
