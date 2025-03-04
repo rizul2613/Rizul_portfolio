@@ -61,6 +61,10 @@ To understand user needs, pain points, and expectations related to hormonal heal
 •	Ensured a clean, minimalistic design with a focus on accessibility (color contrast, typography, and intuitive navigation).
 
 
+**Tool Used**
+•	Figma
+
+
 **Test UI of HormoniQ**
 
 
@@ -119,5 +123,3 @@ Start → Sign Up/Login → Enter Personal Details →OTP Verification→ Enter 
 This project strengthened my skills in user research, wireframing, prototyping, and usability testing. By focusing on a user-centered approach, I was able to craft an intuitive experience that empowers users to take control of their hormonal health.
 
 
-**Tool Used**
-•	Figma
