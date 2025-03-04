@@ -1,4 +1,4 @@
-*** Traveling App***
+***Traveling App***
 
 It is a website that I designed while practicing
 
