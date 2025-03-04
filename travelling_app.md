@@ -10,4 +10,4 @@ https://www.figma.com/design/izA2Bo3hbiCrWmz9oj2znr/Travel-Website-Landing-Page-
 
 
 I also designed Logo for the website
-![Logo](https://www.canva.com/design/DAGgw_WnIVk/LIfdc_F09dH7Vr9eM-XXTA/edit?utm_content=DAGgw_WnIVk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Logo](C:\Users\hp\Downloads\_Practice.png)
