@@ -10,4 +10,6 @@ https://www.figma.com/design/izA2Bo3hbiCrWmz9oj2znr/Travel-Website-Landing-Page-
 
 
 I also designed Logo for the website
+
+
 ![Logo](https://github.com/rizul2613/Rizul_portfolio/blob/main/_Practice.png)
