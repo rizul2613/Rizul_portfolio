@@ -3,4 +3,4 @@
 By clicking the below link you can see the UI of the project
 
 
-https://www.canva.com/design/DAGc6g2zhNs/dW4_ET1P7mijbwCKkRj81A/edit?utm_content=DAGc6g2zhNs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.figma.com/design/izA2Bo3hbiCrWmz9oj2znr/Travel-Website-Landing-Page-(Community)?node-id=0-1&p=f&t=rrjxxyJwVeQGbFIs-0
