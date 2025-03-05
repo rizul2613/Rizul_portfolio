@@ -12,7 +12,7 @@ By clicking the below link you can see the UI of the project
 I also designed Logo for the website
 
 
-![Logo](https://github.com/rizul2613/Rizul_portfolio/blob/main/_Practice.png)
+![Logo](_Practice.png)
 
 
 And This image below
