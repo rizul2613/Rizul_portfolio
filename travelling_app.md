@@ -10,16 +10,18 @@ This website was designed using an **online template for the landing page**, whi
 ## 1. Project Overview
 
 
-***•	Title: Jadoo- A travelling website***
+#### •	Title: Jadoo- A travelling website
 
 
-**•	Objective:** To provide travelers with a hassle-free and personalized journey by offering the best flight deals, Information about famous local events, accurate weather forecasts, and customized travel experience.
+### •	Objective:
+To provide travelers with a hassle-free and personalized journey by offering the best flight deals, Information about famous local events, accurate weather forecasts, and customized travel experience.
 
 
-**•	Target Audience:** Our target audiences are those people who wants to travel the several places according to their budget and seek best flight deals ,local events and weather insights for a hassle-free experience.. 
+### •	Target Audience:
+Our target audiences are those people who wants to travel the several places according to their budget and seek best flight deals ,local events and weather insights for a hassle-free experience.. 
 
 
-**•	Role:** UI/UX Designer
+### •	Role: UI/UX Designer
 
 
 ## 2. Problem & Research
