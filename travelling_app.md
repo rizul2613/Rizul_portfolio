@@ -53,10 +53,10 @@ It has been noticed that users who wants to travel or who like to travel wants t
 ### •	UI Decisions:
 
 #### Color Palette:
-The main colors include Orange white Peach creates a warm and inviting feel which is perfect for travelling websites.
+The main colors include Orange, white, Peach, burnt orange  creates a warm and inviting feel which is perfect for travelling websites.
 
 #### Typography:
-The Website include  Volkhov font for headings, Poppins for paragearphs or texts for visibility, and open sans for subheadings.
+For this website,  Volkhov is used for main headings to add trust and elegance,Open Sans is used for subheadings, which ensures the clean and modern look and enhances readability, and Poppins is used for body text taht maintains clarity.
 
 
 ### •	Key Features: 
