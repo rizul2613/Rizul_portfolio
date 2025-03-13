@@ -10,7 +10,7 @@ This website was designed using an **online template for the landing page**, whi
 ## 1. Project Overview
 
 
-#### •	Title: Jadoo- A travelling website
+### •	Title: Jadoo- A travelling website
 
 
 ### •	Objective:
@@ -47,9 +47,6 @@ It has been noticed that users who wants to travel or who like to travel wants t
 ## 3. Design Process
 
 
-•	Wireframes (Optional): (Briefly mention how you planned the layout)
-
-
 ### •	UI Decisions:
 
 #### Color Palette:
@@ -78,7 +75,7 @@ For this website,  Volkhov is used for main headings to add trust and elegance,O
 ## 4. Outcome & Learnings
 **•	Final Design:**
 
- [Check UI Of the Website](https://www.figma.com/design/izA2Bo3hbiCrWmz9oj2znr/Travel-Website-Landing-Page-(Community)?node-id=0-1&p=f&t=Ziox2gCPiFkAw6rM-0)
+ [Check the final result](https://www.figma.com/design/izA2Bo3hbiCrWmz9oj2znr/Travel-Website-Landing-Page-(Community)?node-id=0-1&p=f&t=Ziox2gCPiFkAw6rM-0)
 
 
 **•	Key Learnings:** 
