@@ -151,7 +151,7 @@ Start → Sign Up/Login → Enter Personal Details →OTP Verification→ Enter 
 ## 4. Outcome & Learnings:
 
 #### •	Final Design: 
- (https://www.figma.com/design/FDlrdWBv3zvJEJeE7HBwEN/hormonal-health-tracker?node-id=0-1&p=f&t=sHi0xaNw4hZpOv0o-0)
+  [Check the final result](https://www.figma.com/design/FDlrdWBv3zvJEJeE7HBwEN/hormonal-health-tracker?node-id=0-1&p=f&t=sHi0xaNw4hZpOv0o-0)
 
 
 #### • Conclusion & Learnings:
