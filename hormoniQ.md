@@ -94,8 +94,13 @@ To understand user needs, pain points, and expectations related to hormonal heal
 #### User Flow:
 
 
-**•	App Login**
-Start → Sign Up/Login → Enter Personal Details →OTP Verification→ Enter age → Enter Date of last period→ Dashboard.
+
+
+ **•	App Login**               
+ 
+----------------------------------------------------------------------------------------------------------------------------
+| Start → Sign Up/Login → Enter Personal Details →OTP Verification→ Enter age → Enter Date of last period→ Dashboard.     |
+-----------------------------------------------------------------------------------------------------------------------------
 
 
 **•	Main Dashboard Navigation**
