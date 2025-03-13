@@ -10,26 +10,26 @@ This website was designed using an **online template for the landing page**, whi
 ## 1. Project Overview
 
 
-### •	Title: Jadoo- A travelling website
+#### •	Title: Jadoo- A travelling website
 
 
-### •	Objective:
+#### •	Objective:
 To provide travelers with a hassle-free and personalized journey by offering the best flight deals, Information about famous local events, accurate weather forecasts, and customized travel experience.
 
 
-### •	Target Audience:
+#### •	Target Audience:
 Our target audiences are those people who wants to travel the several places according to their budget and seek best flight deals ,local events and weather insights for a hassle-free experience.. 
 
 
-### •	Role: UI/UX Designer
+#### •	Role: UI/UX Designer
 
 
 ## 2. Problem & Research
 
-### •	Problem Statement:
+#### •	Problem Statement:
 It has been noticed that users who wants to travel or who like to travel wants to keep the planning of their trip simple and according to their budget. They want to opt to the best flight experiences and want to explore the place more and weather is the one of the concerns.
 
-### •	Key Insights: 
+#### •	Key Insights: 
 
 
 **The main findings/ assumptions are:-**
@@ -47,16 +47,16 @@ It has been noticed that users who wants to travel or who like to travel wants t
 ## 3. Design Process
 
 
-### •	UI Decisions:
+#### •	UI Decisions:
 
-#### Color Palette:
+###### Color Palette:
 The main colors include Orange, white, Peach, burnt orange  creates a warm and inviting feel which is perfect for travelling websites.
 
-#### Typography:
+###### Typography:
 For this website,  Volkhov is used for main headings to add trust and elegance,Open Sans is used for subheadings, which ensures the clean and modern look and enhances readability, and Poppins is used for body text taht maintains clarity.
 
 
-### •	Key Features: 
+#### •	Key Features: 
 **The main Key Features include:**
 
 
@@ -75,19 +75,12 @@ For this website,  Volkhov is used for main headings to add trust and elegance,O
  [Check the final result](https://www.figma.com/design/izA2Bo3hbiCrWmz9oj2znr/Travel-Website-Landing-Page-(Community)?node-id=0-1&p=f&t=Ziox2gCPiFkAw6rM-0)
 
 
-
-
-
-
-
-
-
-I also designed Logo for the website
+**I also designed Logo for the website**
 
 
 ![Logo](_Practice.png)
 
 
-And This image below
+**And This image below**
 
 ![Image](https://github.com/rizul2613/Rizul_portfolio/blob/main/travelling_website.png)
