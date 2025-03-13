@@ -78,13 +78,12 @@ For this website,  Volkhov is used for main headings to add trust and elegance,O
 ## 4. Outcome & Learnings
 **•	Final Design:**
 
- [Check UI Of the Website](https://www.figma.com/design/izA2Bo3hbiCrWmz9oj2znr/Travel-Website-Landing-Page-(Community)?node-id=0-1&p=f&t=rrjxxyJwVeQGbFIs-0)
-
- 
-•	Impact (If applicable): (How does your design improve UX?)
+ [Check UI Of the Website](https://www.figma.com/design/izA2Bo3hbiCrWmz9oj2znr/Travel-Website-Landing-Page-(Community)?node-id=0-1&p=f&t=Ziox2gCPiFkAw6rM-0)
 
 
-**•	Key Learnings:** (What did you learn from this project?)
+**•	Key Learnings:** 
+
+
 
 
 
