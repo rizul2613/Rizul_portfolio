@@ -60,16 +60,13 @@ For this website,  Volkhov is used for main headings to add trust and elegance,O
 **The main Key Features include:**
 
 
-**1.** Smart Search & Booking – A universal search bar to find flights, local events, and destinations with AI-powered recommendations.
+**1.** Best flight deals, event suggestions, and weather forecasts based on user preferences and location.
 
 
-**2.** Personalized Travel Experience – Customized flight deals, event suggestions, and weather forecasts based on user preferences and location.
+**3.** Easy booking for flights and events with a secure payment system and a user-friendly dashboard for all users.
 
 
-**3.** Seamless Integration – Easy booking for flights and events with a secure payment system and a user-friendly dashboard for trip management.
-
-
-**4.** Real-Time Updates – Live weather alerts, flight status notifications, and trending local events to enhance the travel experience.
+**4.** Live weather alertsand trending local events to enhance the travel experience.
 
 
 ## 4. Outcome & Learnings
@@ -78,7 +75,7 @@ For this website,  Volkhov is used for main headings to add trust and elegance,O
  [Check the final result](https://www.figma.com/design/izA2Bo3hbiCrWmz9oj2znr/Travel-Website-Landing-Page-(Community)?node-id=0-1&p=f&t=Ziox2gCPiFkAw6rM-0)
 
 
-**•	Key Learnings:** 
+
 
 
 
