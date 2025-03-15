@@ -78,7 +78,7 @@ For this website,  Volkhov is used for main headings to add trust and elegance,O
 **I also designed Logo for the website**
 
 
-![Logo](https://github.com/rizul2613/Rizul_portfolio/blob/main/_Practice.png?raw=true)
+![Logo](https://github.com/rizul2613/Rizul_portfolio/blob/main/jadoo%20logo.png?raw=true)
 
 
 **And This image below**
