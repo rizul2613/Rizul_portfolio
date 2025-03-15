@@ -1,4 +1,4 @@
-# Design projects
+# Designs
 
 
 ![Shopping Website](https://github.com/rizul2613/Rizul_portfolio/blob/main/shopping%20app.png?raw=true)
