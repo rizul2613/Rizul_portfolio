@@ -83,4 +83,4 @@ For this website,  Volkhov is used for main headings to add trust and elegance,O
 
 **And This image below**
 
-![Image](https://github.com/rizul2613/Rizul_portfolio/blob/main/travelling_website.png)
+![Image](https://github.com/rizul2613/Rizul_portfolio/blob/main/travelling_website.png?raw=true)
