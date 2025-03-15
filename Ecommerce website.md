@@ -59,13 +59,13 @@ Many users struggle with finding the right skincare and healthcare products acro
 ### Key Insights from Research
 
 
-1️. Most users prefer one-stop platforms for their skincare and healthcare needs.
+- Most users prefer one-stop platforms for their skincare and healthcare needs.
 
 
-2️. A simplified navigation & search feature improves product discovery.
+- A simplified navigation & search feature improves product discovery.
 
 
-3️. Customers trust expert recommendations and product authenticity when shopping online.
+- Customers trust expert recommendations and product authenticity when shopping online.
 
 
 ## Design Process
@@ -139,7 +139,7 @@ Open Sans – Used for subheadings and secondary information
 - Increased user trust with expert-backed recommendations.
 
 
-# Key Learnings
+## Key Learnings
 
 
 
