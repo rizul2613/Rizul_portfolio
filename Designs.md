@@ -1,7 +1,25 @@
-# Designs
+# Design Showcase
+
+
+I created these  UI illustrations and logos using Canva to enhance visual appeal and user engagement.
+
+
+**Tool Used:** Canva
+
+
+## My Designs
+
+
+### Shopping:
+
+
+##### Custom UI Illustration:
 
 
 ![Shopping Website](https://github.com/rizul2613/Rizul_portfolio/blob/main/shopping%20app.png?raw=true)
+
+
+##### Logo:
 
 
 ![shopping_logo](https://github.com/rizul2613/Rizul_portfolio/blob/main/shoppinglogo.png?raw=true)
