@@ -142,9 +142,9 @@ Open Sans – Used for subheadings and secondary information
 ## Key Learnings
 
 
-- I learned the basic structuring of a website and customized an eCommerce template to fit the skincare, makeup, and healthcare niche.
+- I learned the basic structuring of a website and customized an eCommerce template to fit the needs of a skincare, makeup, and healthcare website.
 
-- I designed a custom logo and refined the color scheme and typography for brand consistency.
+- I designed a custom logo to establish a unique brand presence.
 
 
 
