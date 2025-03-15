@@ -7,4 +7,4 @@
 ** I also Designed logo for the website ***Urban Lotus***- A modern and minimalistic logo**
 
 
-![Logo]()
+![Logo](https://github.com/rizul2613/Rizul_portfolio/blob/main/urban%20lotus%20logo.png?raw=true)
