@@ -32,7 +32,7 @@ It has been noticed that users who wants to travel or who like to travel wants t
 #### •	Key Insights: 
 
 
-**The main findings/ assumptions are:-**
+##### The main findings/ assumptions are:-
 
 
 **1.** Many people wants their experience to be customized.
@@ -49,15 +49,15 @@ It has been noticed that users who wants to travel or who like to travel wants t
 
 #### •	UI Decisions:
 
-###### Color Palette:
+##### Color Palette:
 The main colors include Orange, white, Peach, burnt orange  creates a warm and inviting feel which is perfect for travelling websites.
 
-###### Typography:
+##### Typography:
 For this website,  Volkhov is used for main headings to add trust and elegance,Open Sans is used for subheadings, which ensures the clean and modern look and enhances readability, and Poppins is used for body text taht maintains clarity.
 
 
 #### •	Key Features: 
-**The main Key Features include:**
+##### The main Key Features include:
 
 
 **1.** Best flight deals, event suggestions, and weather forecasts based on user preferences and location.
