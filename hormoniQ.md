@@ -13,7 +13,7 @@ HormoniQ is a hormonal health tracking app designed to help users monitor their 
 HormoniQ is a hormonal health tracking app designed to help users monitor their period cycle, mood, energy levels, and sleep. The app also offers community support and personalized insights to enhance user well-being.
 
 
- #### • Target Audience:
+#### • Target Audience:
  Users who want to track their menstrual cycle , mood swings and , common health habits.
 
 
